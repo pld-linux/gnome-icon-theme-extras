@@ -1,12 +1,12 @@
 Summary:	Additional icons for GNOME environment
 Summary(pl.UTF-8):	Dodatkowe ikony dla środowiska GNOME
 Name:		gnome-icon-theme-extras
-Version:	2.30.1
-Release:	2
+Version:	3.0.0
+Release:	1
 License:	CC-BY-SA
 Group:		Themes
-Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-icon-theme-extras/2.30/%{name}-%{version}.tar.bz2
-# Source0-md5:	f6b17ceaafe22ffffdf573e8d2b5a4d5
+Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-icon-theme-extras/3.0/%{name}-%{version}.tar.bz2
+# Source0-md5:	9358d5e10ffbc7e083bd1831951469be
 URL:		http://www.gnome.org/
 BuildRequires:	autoconf >= 2.53
 BuildRequires:	automake >= 1:1.9
